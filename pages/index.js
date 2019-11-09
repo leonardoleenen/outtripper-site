@@ -20,7 +20,7 @@ const Home = () => (
       <div className='row'>
         <a href='https://nextjs.org/docs' className='card'>
           <h3>Documentation &rarr;</h3>
-          <p>Learn more about Next.js in the documentation.</p>
+          <p>Learn more aboutttt Next.js in the documentation.</p>
         </a>
         <a href='https://nextjs.org/learn' className='card'>
           <h3>Next.js Learn &rarr;</h3>
